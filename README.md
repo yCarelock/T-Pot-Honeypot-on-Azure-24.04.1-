@@ -130,3 +130,6 @@ Deploy a fully functional T-Pot honeypot in Microsoft Azure with security harden
 * Implemented secure SSH practices, NSG restrictions, and live monitoring.
 * Gained visibility into real-world attack telemetry.
 
+Project Time Line: 
+4HRS to set up 
+24Hrs to collect data 
